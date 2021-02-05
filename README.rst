@@ -19,7 +19,7 @@ Clone the theme repository::
 
 Render your theme::
     
-    tutor config render --extra-config ./enrich/config.yml ./enrich/theme "$(tutor config printroot)/env/build/openedx/themes/enrich
+    tutor config render --extra-config ./enrich/config.yml ./enrich/theme "$(tutor config printroot)/env/build/openedx/themes/enrich"
 
 Rebuild the Openedx docker image::
 
