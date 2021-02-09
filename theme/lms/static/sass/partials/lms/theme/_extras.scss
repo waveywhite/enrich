@@ -159,6 +159,11 @@ nav.wrapper-preview-menu {
   display: inline-block;
 }
 
+.home > header .title .course-search .search-button {
+  border-color: darken($primary, 30%);
+  background: $primary;
+}
+
 /////////////////// User profile
 .view-profile .profile-self .wrapper-profile-field-account-privacy {
   margin-top: -$content-padding-top;

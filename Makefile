@@ -9,4 +9,5 @@ watch: render
 rebuild:
 	tutor images build openedx
 
-restart: tutor local stop && tutor local start -d
+restart:
+	tutor local stop && tutor local start -d

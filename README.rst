@@ -1,7 +1,7 @@
 Enrich, a custom theme based on Indigo for Open edX
 ===================================================
 
-Indigo is an elegant, customizable theme for `Open edX <https://open.edx.org>`__.
+Enrich is an elegant, customizable theme for `Open edX <https://open.edx.org>`__, based on the Indigo theme.
 
 .. image:: ./screenshots/01-landing-page.png
     :alt: Platform landing page
@@ -11,7 +11,7 @@ Indigo is an elegant, customizable theme for `Open edX <https://open.edx.org>`__
 Installation
 ------------
 
-Indigo was specially developed to be used with `Tutor <https://docs.overhang.io>`__ (at least v11.0.0). If you have not installed Open edX with Tutor, then installation instructions will vary.
+Enrich is based on Indigo, which was specially developed to be used with `Tutor <https://docs.overhang.io>`__ (at least v11.0.0). If you have not installed Open edX with Tutor, then installation instructions will vary.
 
 Clone the theme repository::
 
